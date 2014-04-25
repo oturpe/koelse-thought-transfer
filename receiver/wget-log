@@ -1,0 +1,20 @@
+--2014-04-25 12:40:48--  http://koti.kapsi.fi/oturpe/ajatustenluku/ajatus.ajatus
+Selvitetään osoitetta koti.kapsi.fi (koti.kapsi.fi)... 217.30.184.173
+Yhdistetään palvelimeen koti.kapsi.fi (koti.kapsi.fi)|217.30.184.173|:80... yhdistetty.
+HTTP-pyyntö lähetetty, odotetaan vastausta... 302 Moved Temporarily
+Sijainti: https://hotspot.t-mobile.net/wlan/redirect.do?origurl=http%3A%2F%2Fkoti.kapsi.fi%2Foturpe%2Fajatustenluku%2Fajatus.ajatus&ts=1398418850711 [seurataan]
+--2014-04-25 12:40:49--  https://hotspot.t-mobile.net/wlan/redirect.do?origurl=http%3A%2F%2Fkoti.kapsi.fi%2Foturpe%2Fajatustenluku%2Fajatus.ajatus&ts=1398418850711
+Selvitetään osoitetta hotspot.t-mobile.net (hotspot.t-mobile.net)... 10.120.136.116
+Yhdistetään palvelimeen hotspot.t-mobile.net (hotspot.t-mobile.net)|10.120.136.116|:443... yhdistetty.
+HTTP-pyyntö lähetetty, odotetaan vastausta... 302 Moved Temporarily
+Sijainti: https://hotspot.t-mobile.net/landing/TD/Airport/Munich/DE_MY1783/de_DE/web/index.html?ts=1398418850711 [seurataan]
+--2014-04-25 12:48:14--  https://hotspot.t-mobile.net/landing/TD/Airport/Munich/DE_MY1783/de_DE/web/index.html?ts=1398418850711
+Käytetään uudelleen yhteyttä hotspot.t-mobile.net:443.
+HTTP-pyyntö lähetetty, odotetaan vastausta... 200 OK
+Pituus: 392 [text/html]
+Tallennetaan kohteeseen ”ajatus.ajatus”
+
+     0K                                                       100% 45,4M=0s
+
+2014-04-25 12:48:14 (45,4 MB/s) - ”ajatus.ajatus” tallennettu [392/392]
+
